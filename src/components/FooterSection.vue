@@ -1,9 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <footer
-    class="footer bg-base-300 sm:footer-horizontal text-neutral-content items-center p-4"
-  >
+  <footer class="footer bg-base-300 sm:footer-horizontal text-neutral-content items-center p-4">
     <aside class="grid-flow-col items-center">
       <p>Copyright © Leo Tong {{ new Date().getFullYear() }}</p>
     </aside>

@@ -20,8 +20,8 @@
     <div class="p-6 lg:w-6/10 flex flex-col justify-center grow">
       <h2 class="mb-5 text-5xl font-bold">An Obligatory Self Introduction?🤔</h2>
       <p class="mb-5 text-2xl">
-        Hi, I'm Leo, and I'm currently a third year university student studying a double degree
-        in Actuarial Studies and Computer Science. But perhaps a more apt description would be an
+        Hi, I'm Leo, and I'm currently a third year university student studying a double degree in
+        Actuarial Studies and Computer Science. But perhaps a more apt description would be an
         newbie statistician who has stumbled into the rabbithole that is JavaScript and software
         engineering 😶.
       </p>

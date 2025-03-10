@@ -7,7 +7,9 @@
     </div> -->
     <div class="hero-content text-neutral-content text-center">
       <div class="max-w-2xl">
-        <h1 class="typewriter mb-5 text-7xl font-bold" ref="main">Hey there, I'm <span class="text-green-500">Leo</span>.</h1>
+        <h1 class="typewriter mb-5 text-7xl font-bold" ref="main">
+          Hey there, I'm <span class="text-green-500">Leo</span>.
+        </h1>
         <p class="mb-5 text-2xl" ref="second">Welcome to my Site.</p>
         <button
           class="btn btn-primary rounded-xl border-2 border-solid hover:border-[var(--color-green-500)]"
@@ -32,7 +34,7 @@
 <style scoped>
 .typewriter {
   overflow: hidden;
-  border-right: .15em solid white;
+  border-right: 0.15em solid white;
   white-space: nowrap;
   animation:
     typing 3s steps(120, end),
@@ -41,13 +43,22 @@
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
 }
 
 /* The typewriter cursor effect */
 @keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: white; }
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: white;
+  }
 }
 </style>
