@@ -2,7 +2,7 @@
 
 <template>
   <footer
-    class="footer sm:footer-horizontal bg-neutral text-neutral-content items-center p-4 absolute bottom-0"
+    class="footer bg-base-300 sm:footer-horizontal text-neutral-content items-center p-4"
   >
     <aside class="grid-flow-col items-center">
       <p>Copyright © Leo Tong {{ new Date().getFullYear() }}</p>
