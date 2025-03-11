@@ -41,7 +41,7 @@
       </ul>
     </div>
     <div class="navbar-end">
-      <a class="btn" href="../../public/cv.pdf" download="cv">Resume</a>
+      <a class="btn" href="/cv.pdf" download="cv">Resume</a>
     </div>
   </div>
 </template>
