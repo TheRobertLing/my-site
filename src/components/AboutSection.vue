@@ -5,11 +5,13 @@
   <div class="w-9/10 mx-auto flex flex-col lg:flex-row justify-center items-center mt-24">
     <div class="p-6 lg:w-4/10 flex justify-center items-center max-w-screen-md grow">
       <figure class="flex flex-col items-center">
-        <img
-          class="w-xs h-xs rounded-full border-2 border-solid transition hover:border-[var(--color-green-500)]"
-          src="../assets/husk.png"
-          alt="Profile"
-        />
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+          <img
+            class="w-xs h-xs rounded-full border-2 border-solid transition hover:border-[var(--color-green-500)] cursor-pointer"
+            src="../assets/husk.png"
+            alt="Profile"
+          />
+        </a>
 
         <figcaption class="text-center p-6 w-8/10">
           "Actuarial Studies teaches me to manage risk. Computer Science ensures I create it.
