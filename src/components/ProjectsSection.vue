@@ -110,14 +110,14 @@ const projects: Project[] = [
                   <!-- To-do -->
                 </div>
               </div>
-              <button class="btn btn-circle">
-                <a :href="project.link" target="_blank">
+              <button class="btn btn-circle hover:border-green-500">
+                <a class="w-full h-full" :href="project.link" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
                     height="24"
                     viewBox="0 -3.5 256 256"
-                    class="fill-current"
+                    class="fill-current w-full h-full p-1"
                   >
                     <g>
                       <path
