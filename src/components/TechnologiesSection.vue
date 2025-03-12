@@ -65,7 +65,7 @@ const tech: Record<string, Item[]> = {
       name: 'Vue',
       proficiency: 'I will master it out of obligation.',
       description:
-        'I may not be the best at it, but as long as I have my unwavering bias towards Vue, eventually I will become the best。',
+        'I may not be the best at it, but as long as I have my unwavering bias towards Vue, eventually I will become the best.',
     },
     {
       name: 'Express',
