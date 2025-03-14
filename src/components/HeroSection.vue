@@ -11,21 +11,20 @@
           Hey there, I'm <span class="text-green-500">Leo</span>.
         </h1>
         <p class="mb-5 text-2xl" ref="second">Welcome to my Site.</p>
-        <button
+        <a
           class="btn btn-primary rounded-xl border-2 border-solid hover:border-[var(--color-green-500)]"
+          href="#about"
         >
-          <a href="#about">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              height="24px"
-              viewBox="0 -960 960 960"
-              width="24px"
-              class="fill-current"
-            >
-              <path d="M480-344 240-584l56-56 184 184 184-184 56 56-240 240Z" />
-            </svg>
-          </a>
-        </button>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            height="24px"
+            viewBox="0 -960 960 960"
+            width="24px"
+            class="fill-current"
+          >
+            <path d="M480-344 240-584l56-56 184 184 184-184 56 56-240 240Z" />
+          </svg>
+        </a>
       </div>
     </div>
   </div>
