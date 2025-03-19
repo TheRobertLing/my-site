@@ -20,12 +20,12 @@ const projects: Project[] = [
     link: 'https://github.com/TheRobertLing/zdic-parser',
   },
   {
-    name: 'extract-alphanumeric',
-    status: 'Complete',
+    name: 'pinyin-tools',
+    status: 'Complete, Actively Maintained',
     description:
-      'A utility I created to extract alphanumeric data from an input string, with added options to create custom whitelists and blacklists.',
-    stack: ['Typescript', 'Jest'],
-    link: 'https://github.com/TheRobertLing/extract-alphanumeric',
+      'A utility library I created for working with pinyin that includes functionality such as converting tones to diacritic marks and verifying pinyin.',
+    stack: ['Typescript', 'Vitest'],
+    link: 'https://github.com/TheRobertLing/pinyin-tools',
   },
   {
     name: 'extract-zhongwen',

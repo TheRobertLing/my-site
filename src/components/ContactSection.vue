@@ -80,7 +80,7 @@ const submitForm = async () => {
           ></textarea>
         </div>
 
-        <button class="btn btn-block" type="submit">Submit Form</button>
+        <button class="btn btn-block hover:text-green-500" type="submit">Submit Form</button>
       </form>
     </div>
   </div>
