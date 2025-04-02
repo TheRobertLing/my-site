@@ -12,6 +12,22 @@ interface Project {
 
 const projects: Project[] = [
   {
+    name: 'flowZH',
+    status: 'Live MVP',
+    description:
+      'A web platform for learning Chinese through interactive games and downloadable resources, designed with a focus on accessibility and community contributions.',
+    stack: ['Vue.js', 'TypeScript', 'Express.js', 'Supabase'],
+    link: 'https://github.com/TheRobertLing/flowZH',
+  },
+  {
+    name: 'ZiTube',
+    status: 'In Development',
+    description:
+      'A video platform for Chinese learners that integrates subtitles, inline translations, and full transcripts to support immersive language learning.',
+    stack: ['Vue.js', 'TypeScript', 'Composition API'],
+    link: 'https://github.com/TheRobertLing/zitube',
+  },
+  {
     name: 'zdic-parser',
     status: 'Complete, Actively Maintained',
     description:

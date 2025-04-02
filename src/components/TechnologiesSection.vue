@@ -32,20 +32,21 @@ const tech: Record<string, Item[]> = {
     },
     {
       name: 'C',
-      proficiency: 'Could teach it with some prep.',
+      proficiency: 'Can teach it, might cry afterward.',
       description:
         'The holy grail of programming languages. Long live C. Screw segmentation faults though.',
     },
     {
       name: 'Java',
-      proficiency: 'Could teach it with some prep.',
-      description: 'Why int main() when I can public static int main(String args[])?',
+      proficiency: "Battle-tested. Just don't ask me to love it.",
+      description:
+        'Verbose? Yes. Reliable? Also yes. public static void main still lives rent-free in my head.',
     },
     {
-      name: 'Javascript',
-      proficiency: 'Could teach it with some prep.',
+      name: 'JavaScript',
+      proficiency: 'Fluent in chaos.',
       description:
-        'Under my tutelage, you can be sure to be a Javascript expert (95% confidence interval).',
+        'Where "b" + "a" + + "a" + "a" gives you "banana" — and I somehow still trust it to run my frontend.',
     },
     {
       name: 'CSharp',
@@ -111,8 +112,9 @@ const tech: Record<string, Item[]> = {
   Learning: [
     {
       name: 'Docker',
-      proficiency: 'Have not used it yet.',
-      description: "If it's necessary, I will learn it.",
+      proficiency: "'now what it does, haven't broken anything with it. Yet.",
+      description:
+        "Have read enough Dockerfiles to pretend I know what I'm doing. Will make it real soon.",
     },
   ],
 }
