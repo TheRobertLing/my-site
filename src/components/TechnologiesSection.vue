@@ -43,7 +43,7 @@ const tech: Record<string, Item[]> = {
         'Verbose? Yes. Reliable? Also yes. public static void main still lives rent-free in my head.',
     },
     {
-      name: 'JavaScript',
+      name: 'Javascript',
       proficiency: 'Fluent in chaos.',
       description:
         'Where "b" + "a" + + "a" + "a" gives you "banana" — and I somehow still trust it to run my frontend.',
