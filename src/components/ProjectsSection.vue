@@ -24,8 +24,8 @@ const projects: Project[] = [
     status: 'In Development',
     description:
       'A video platform for Chinese learners that integrates subtitles, inline translations, and full transcripts to support immersive language learning.',
-    stack: ['Vue.js', 'TypeScript', 'Composition API'],
-    link: 'https://github.com/TheRobertLing/zitube',
+    stack: ['Vue.js', 'TypeScript', 'Laravel'],
+    link: 'https://github.com/TheRobertLing/zitube-frontend',
   },
   {
     name: 'zdic-parser',
@@ -263,7 +263,7 @@ const projects: Project[] = [
             </div>
             <div class="timeline-start mb-10 md:text-end">
               <time class="font-mono italic">2024</time>
-              <div class="text-lg font-black">Dissatisfaction</div>
+              <div class="text-lg font-black">Dissatisfaction?</div>
               Building projects had become more of a chore that I despised. "Let us go then, you and
               I, When the evening is spread out against the sky Like a patient etherized upon a
               table;".
@@ -289,7 +289,7 @@ const projects: Project[] = [
             </div>
             <div class="timeline-end md:mb-10">
               <time class="font-mono italic">2025</time>
-              <div class="text-lg font-black">A Renaissance</div>
+              <div class="text-lg font-black">A Renaissance...</div>
               Ever since shifting my projects to align with my interest for language learning and
               linguistics, I found coding to be exponentially more enjoyable. And they lived happily
               ever after. Or perhaps it's only just the start of a new journey.
