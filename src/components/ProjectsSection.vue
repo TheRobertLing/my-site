@@ -25,7 +25,7 @@ const projects: Project[] = [
     description:
       'A video platform for Chinese learners that integrates subtitles, inline translations, and full transcripts to support immersive language learning.',
     stack: ['Vue.js', 'TypeScript', 'Laravel'],
-    link: 'https://github.com/TheRobertLing/zitube-frontend',
+    link: 'https://github.com/TheRobertLing/zitube-2',
   },
   {
     name: 'zdic-parser',
